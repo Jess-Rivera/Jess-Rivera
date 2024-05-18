@@ -20,7 +20,7 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 
 ### Programming Languages
 <div>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343"/>
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
@@ -41,12 +41,15 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 ### Achieved
 <!-- List achieved certifications here with badges -->
 
+
 ### In Progress
-<div>
-	<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
+
+| Certification                                                                                      | Anticipated Completion Date |
+|----------------------------------------------------------------------------------------------------|-----------------------------|
+| <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> | May 2024                    |
+| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />             | August 2024                 |
+| <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />              | November 2024               |
+
 
 
 ## Contact
