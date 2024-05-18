@@ -30,7 +30,7 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 
 ### SIEM Tools
 <div>
-    <!-- Add SIEM tools here -->
+    <img src="https://img.shields.io/badge/-Wazuh-001B49?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 
