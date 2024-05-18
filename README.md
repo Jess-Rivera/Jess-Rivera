@@ -12,9 +12,7 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 
 | Skill                     | Associated Project                    |
 |---------------------------|---------------------------------------|
-| Network Traffic Analysis  | [Network Analysis with Wireshark](#)  |
-| Intrusion Detection       | [Suricata IDS Setup and Configuration](#)  |
-| Programming (Python, SQL) | [Cybersecurity Scripts and Databases](#)  |
+| Configuring and Testing a File Integrity Monitor | ![FIM Lab](https://github.com/Jess-Rivera/Configuring-and-Testing-FIM)|
 
 ## Tools
 
