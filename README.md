@@ -37,14 +37,15 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 ## Certifications
 
 ### Achieved
-<!-- List achieved certifications here with badges -->
+| Certification                                                                                      | Completion Date |
+|----------------------------------------------------------------------------------------------------|-----------------------------|
+| <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> | May 2024                    |
 
 
 ### In Progress
 
 | Certification                                                                                      | Anticipated Completion Date |
 |----------------------------------------------------------------------------------------------------|-----------------------------|
-| <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> | May 2024                    |
 | <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />             | August 2024                 |
 | <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />              | November 2024               |
 
