@@ -13,6 +13,7 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 | Skill                     | Associated Project                    |
 |---------------------------|---------------------------------------|
 | Configuring and Testing a File Integrity Monitor | ![FIM Lab](https://github.com/Jess-Rivera/Configuring-and-Testing-FIM)|
+| Signatures and Certificates			   | ![Creating and Verifying Signatures](https://github.com/Jess-Rivera/Creating-and-Verifying-Digital-Signatures)|
 
 ## Tools
 
