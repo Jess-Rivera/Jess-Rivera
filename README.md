@@ -47,8 +47,7 @@ I am eager to transition into cybersecurity, aiming to start in a Security Opera
 
 | Certification                                                                                      | Anticipated Completion Date |
 |----------------------------------------------------------------------------------------------------|-----------------------------|
-| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />             | August 2024                 |
-| <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />              | November 2024               |
+| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=60&logoSize=auto" />             | August 2025                 |
 
 
 
