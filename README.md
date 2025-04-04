@@ -4,9 +4,9 @@ Welcome to my cybersecurity portfolio! Here, you'll find information about my sk
 <a href="https://www.linkedin.com/in/jess-rivera-04007058/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-I have a lifelong passion for technology and a strong desire to help people, which led me to the field of cybersecurity. With 13 years of experience as a Nuclear Operator and Supervisor, I bring exceptional skills that are highly relevant to cybersecurity roles. I excel in quickly learning complex topics, adapting to high-stress environments, and communicating effectively as both a team player and supervisor.
+I have a lifelong passion for technology and a strong desire to help people, which led me to the field of cybersecurity. With 13 years of experience as a Nuclear Operator and Supervisor, I bring a unique set of skills highly relevant to cybersecurity roles, including expertise in high-stakes incident response, operational technology (OT) security, and working with complex systems under pressure. My experience in critical infrastructure environments allows me to bring an adaptable and detail-oriented approach to tackling cybersecurity challenges. 
 
-I am eager to transition into cybersecurity, aiming to start in a Security Operations Center and progress to a Red or Purple Team role, followed by becoming a Penetration Tester and ultimately a Security Architect.
+I am eager to transition into cybersecurity, initially focusing on roles such as SOC Analyst, with a long-term goal of progressing into Red or Purple Team roles, Penetration Testing, and ultimately becoming a Security Architect.
 
 ## Skills
 
